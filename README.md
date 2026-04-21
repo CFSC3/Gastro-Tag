@@ -37,7 +37,7 @@ Para manter o foco na rotulagem e eficiência operacional, as seguintes funciona
 ## 👥 Colaboradores (3º Período - ADS)
 
 * Bianka Rocha da Silva
-* Carlos Luz
+* Carlos Felipe
 * Francisco Sinval
 * João Pedro Garcia
 * Sávio José
